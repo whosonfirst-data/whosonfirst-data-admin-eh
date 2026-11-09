@@ -34,7 +34,7 @@
     "wof:belongsto":[
         102191573,
         85632693,
-        85673941
+        1796661371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,13 +47,13 @@
             "continent_id":102191573,
             "country_id":85632693,
             "locality_id":1360296031,
-            "region_id":85673941
+            "region_id":1796661371
         }
     ],
     "wof:id":1360296031,
     "wof:lastmodified":1566586929,
     "wof:name":"Foum el Oued",
-    "wof:parent_id":85673941,
+    "wof:parent_id":1796661371,
     "wof:placetype":"locality",
     "wof:population":450,
     "wof:population_rank":2,

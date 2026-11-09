@@ -36,7 +36,7 @@
     "wof:belongsto":[
         102191573,
         85632693,
-        85673947
+        1796661371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +49,13 @@
             "continent_id":102191573,
             "country_id":85632693,
             "locality_id":1276453003,
-            "region_id":85673947
+            "region_id":1796661371
         }
     ],
     "wof:id":1276453003,
     "wof:lastmodified":1566586928,
     "wof:name":"Piedra del Kaisser",
-    "wof:parent_id":85673947,
+    "wof:parent_id":1796661371,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-eh",
     "wof:superseded_by":[],
