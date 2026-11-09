@@ -108,7 +108,7 @@
         "wk:page":"La_G%C3%BCera"
     },
     "wof:country":"EH",
-    "wof:geomhash":"a9c8b841e655080cf5008fa0dd13e7a8",
+    "wof:geomhash":"757ed073326cf35da914872659c92945",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -133,5 +133,5 @@
     -17.08987999999999,
     20.83228
 ],
-  "geometry": {"coordinates":[-17.08987999999999,20.83228],"type":"Point"}
+  "geometry": {"coordinates":[-17.08988,20.83228],"type":"Point"}
 }
