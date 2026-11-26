@@ -1,0 +1,72 @@
+{
+  "id": 9895016460,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.64272,22.07248,-13.64272,22.07248",
+    "geom:latitude":22.07248,
+    "geom:longitude":-13.64272,
+    "iso:country":"EH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13608367: name \"Dougaj\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13608367"
+        },
+        {
+            "citation":"GeoNames populated place 13608367: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13608367"
+        },
+        {
+            "citation":"GeoNames populated place 13608367: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13608367"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85681349 (Western Sahara), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632217,
+        85681349,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13608367
+    },
+    "wof:country":"EH",
+    "wof:geomhash":"ebd822329af20fb1f85220ba349045ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632217,
+            "locality_id":9895016460,
+            "region_id":85681349
+        }
+    ],
+    "wof:id":9895016460,
+    "wof:lastmodified":1795735234,
+    "wof:name":"Dougaj",
+    "wof:parent_id":85681349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.64272,
+    22.07248,
+    -13.64272,
+    22.07248
+],
+  "geometry": {"coordinates":[-13.64272,22.07248],"type":"Point"}
+}
